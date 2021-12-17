@@ -1,0 +1,12 @@
+C:\Users\Justin\source\repos\Aurora\Aurora\bin\Release\Aurora.exe.config
+C:\Users\Justin\source\repos\Aurora\Aurora\bin\Release\Aurora.exe
+C:\Users\Justin\source\repos\Aurora\Aurora\bin\Release\Aurora.pdb
+C:\Users\Justin\source\repos\Aurora\Aurora\bin\Release\Aurora.xml
+C:\Users\Justin\source\repos\Aurora\Aurora\obj\Release\Aurora.Form1.resources
+C:\Users\Justin\source\repos\Aurora\Aurora\obj\Release\Aurora.Resources.resources
+C:\Users\Justin\source\repos\Aurora\Aurora\obj\Release\Aurora.vbproj.GenerateResource.cache
+C:\Users\Justin\source\repos\Aurora\Aurora\obj\Release\Aurora.vbproj.CoreCompileInputs.cache
+C:\Users\Justin\source\repos\Aurora\Aurora\obj\Release\Aurora.exe
+C:\Users\Justin\source\repos\Aurora\Aurora\obj\Release\Aurora.xml
+C:\Users\Justin\source\repos\Aurora\Aurora\obj\Release\Aurora.pdb
+C:\Users\Justin\source\repos\Aurora\Aurora\obj\Release\Aurora.vbprojAssemblyReference.cache
